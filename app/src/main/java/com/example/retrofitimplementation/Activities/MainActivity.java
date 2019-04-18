@@ -99,7 +99,6 @@ public class MainActivity extends AppCompatActivity implements ApiCallback {
 
     @Override
     public void onFailure(Throwable t, int number, Activity activity) {
-        t.printStackTrace();
         Common.dismisDialog();
         if(activity == this) {
             switch (number){
