@@ -1,4 +1,4 @@
-package com.example.retrofitimplementation;
+package com.example.multipleruntimepermissions;
 
 import org.junit.Test;
 
