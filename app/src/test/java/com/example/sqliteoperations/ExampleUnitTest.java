@@ -1,4 +1,4 @@
-package com.example.multipleruntimepermissions;
+package com.example.sqliteoperations;
 
 import org.junit.Test;
 
